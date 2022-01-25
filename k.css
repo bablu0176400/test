@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: boder-box;
+}
+  
+h1{
+ text-align: center;
+ color: white;
+ font-size: 60px;
+ font-style: italic;
+ background-color: black;
+}
+  #h{
+    background-color: yellow;
+    height: 60pxpx;
+    width:180px;
+    padding: 60px;
+    font-size: 60px;
+    
+    
+    
+    
+  }
+  #tag2{
+  
+    font-size: 60px;
+    text-align: right;
+    
+
+  }
+  
